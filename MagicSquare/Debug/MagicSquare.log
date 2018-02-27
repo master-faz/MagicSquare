@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+  MyForm.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  MagicSquare.vcxproj -> C:\Users\runin\Google Drive\School\USF\2017\Spring\Object Oriented Design\Project01\MagicSquare\Debug\MagicSquare.exe
+  MagicSquare.vcxproj -> C:\Users\runin\Google Drive\School\USF\2017\Spring\Object Oriented Design\Project01\MagicSquare\Debug\MagicSquare.pdb (Partial PDB)
